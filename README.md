@@ -81,3 +81,31 @@ APex|198|7
 1|2|3|4
 3|4|5|6
 
+# 代码
+##### 在文档中插入代码片段
+
+```c
+#include <stido,h>
+#include <unistd.h>
+int main(void)
+{
+
+printf("c..\n");
+return 0;
+}
+```
+```cpp
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+int main(void)
+{
+	cout<<"C++"<<endl;
+}
+```
+
+# 超链接
+[BiliBili](https://www.bilibili.com"点击访问B站")
+
+[BaiDu](http://www.baidu.com"点击访问百度”)
